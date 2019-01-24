@@ -1,0 +1,116 @@
+{  
+  "45":{  
+    "name":"Valentine's Day",
+    "colors":[  
+      "#5E081E",
+      "#E24767",
+      "#FFFFFF"
+    ],
+    "Variable":"False"
+  },
+  "49":{  
+    "name":"Presidents Day",
+    "colors":[  
+      "#FF0000",
+      "#FFFFFF",
+      "#0000FF"
+    ],
+    "Variable":"False"
+  },
+  "76":{  
+    "name":"St. Patrick's Day",
+    "colors":[  
+      "#224D17",
+      "#099441"
+    ],
+    "Variable":"False"
+  },
+  "80":{  
+    "name":"Easter",
+    "colors":[  
+      "#FFD4E5",
+      "#E0CDFF",
+      "#BDE8EF",
+      "#B7D784",
+      "#FEFFA2"
+    ],
+    "Variable":"True"
+  },
+  "132":{  
+    "name":"Mother's Day",
+    "colors":[  
+      "#651B0E",
+      "#E25B6A",
+      "#FFAEAA"
+    ],
+    "Variable":"True"
+  },
+  "167":{  
+    "name":"Father's Day",
+    "colors":[  
+      "#8FB9FF",
+      "#3F6896",
+      "#204374"
+    ],
+    "Variable":"True"
+  },
+  "185":{  
+    "name":"Independece Day",
+    "colors":[  
+      "#FF0000",
+      "#FFFFFF",
+      "#0000FF"
+    ],
+    "Variable":"False"
+  },
+  "245":{  
+    "name":"Labor Day",
+    "colors":[  
+      "#FF0000",
+      "#FFFFFF",
+      "#0000FF"
+    ],
+    "Variable":"True"
+  },
+  "304":{  
+    "name":"Halloween",
+    "colors":[  
+      "#F75F1C"
+    ],
+    "Variable":"False"
+  },
+  "315":{  
+    "name":"Veterans Day",
+    "colors":[  
+      "#FF0000",
+      "#FFFFFF",
+      "#0000FF"
+    ],
+    "Variable":"False"
+  },
+  "332":{  
+    "name":"Thanksgiving",
+    "colors":[  
+      "#6C2F00",
+      "#F1B930",
+      "#8A9748"
+    ],
+    "Variable":"True"
+  },
+  "359":{  
+    "name":"Christmas",
+    "colors":[  
+      "#FF0000",
+      "#00FF00"
+    ],
+    "Variable":"False"
+  },
+  "365":{  
+    "name":"New Years Eve",
+    "colors":[  
+      "#FFFFFF",
+      "#FFFF00"
+    ],
+    "Variable":"False"
+  }
+}
